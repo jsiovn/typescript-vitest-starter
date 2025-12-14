@@ -22,7 +22,6 @@ yarn install
 For the best development experience, install these extensions:
 
 - [Vitest](https://marketplace.visualstudio.com/items?itemName=vitest.explorer) - Official Vitest extension for VS Code
-- [Vitest Runner](https://marketplace.visualstudio.com/items?itemName=deinsoftware.vitest-runner) - Run tests directly from the editor
 
 ### Running Tests
 
