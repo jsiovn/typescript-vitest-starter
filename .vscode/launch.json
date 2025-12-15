@@ -5,7 +5,7 @@
       "type": "node",
       "request": "launch",
       "name": "Debug Current File",
-      "runtimeExecutable": "tsx",
+      "runtimeExecutable": "ts-node",
       "runtimeArgs": ["${file}"],
       "skipFiles": ["<node_internals>/**"]
     },
